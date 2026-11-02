@@ -38,4 +38,5 @@ I'm interested in how data and AI can be used in financial markets, and I like l
 ### 📫 Contact
 
 [julie.yerolymos.pro@gmail.com](mailto:julie.yerolymos.pro@gmail.com)
+
 https://www.linkedin.com/in/julie-yerolymos-10791438b/
