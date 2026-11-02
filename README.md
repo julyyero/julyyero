@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Julie !
 
-<!--
-**julyyero/julyyero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Financial Engineering student at ESILV (Paris), following the Generative AI track. I'm interested in how data and AI can be used in financial markets, and I like learning by building: most of what I know about DeFi, AI agents and on-chain finance comes from hackathons.
 
-Here are some ideas to get you started:
+--> Currently working on a commodities portfolio allocation project in Python (mean-variance vs. risk parity, ML forecasts, backtesting)
+--> Looking for a 5-month internship in financial markets from April 2027, ideally in Singapore or Hong Kong
+--> 8+ hackathons across Ethereum, Sui, Somnia and Monad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Developer & board member at the DeVinci Blockchain Association
+Dev3pack fellow
+SheFi fellow
+
+
+Tools:
+Python pandas NumPy scikit-learn XGBoost SQL C++ Git Linux LLM agents RAG Prompt engineering Next.js
+
+Contact:
+📫 julie.yerolymos.pro@gmail.com 
