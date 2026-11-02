@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Julie ! 👋</h2>
+<h2 align="center">Hi, I'm Julie ! </h2>
 
 <p align="center">
   Financial Engineering student at <b>ESILV</b> (Paris) · Generative AI track
